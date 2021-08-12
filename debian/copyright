@@ -1,0 +1,8 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: yockgen01
+Source: <url://example.com>
+
+Files:     Makefile
+           src/yockgen.c
+Copyright: 2021 yockgen <yockgen@gmail.com>
+License:   MIT
